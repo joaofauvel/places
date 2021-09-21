@@ -1,0 +1,5 @@
+.venv
+*.code-workspace
+docs
+ipysess.py
+places_api.py
